@@ -1,0 +1,23 @@
+.icon {
+  cursor: pointer;
+  margin-inline: 6px;
+}
+
+.input {
+  font-size: 14px;
+  line-height: 17px;
+  color: #33213d;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.label {
+  color: #33213d;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+  margin-bottom: 5px;
+}

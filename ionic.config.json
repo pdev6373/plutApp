@@ -1,0 +1,7 @@
+{
+  "name": "Plut",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

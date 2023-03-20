@@ -1,0 +1,15 @@
+.dashboard-buttons {
+  padding: 0;
+}
+
+.list-text {
+  max-width: 20px;
+}
+.uk-accordion-title::before,
+.dashboad-accordion-title::before {
+  width: 0 !important;
+  height: 0 !important;
+  margin-left: 0 !important;
+  float: none !important;
+  background: none !important;
+}
